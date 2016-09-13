@@ -1,0 +1,130 @@
+* {
+  font-family: verdana,sans-serif;
+}
+
+#content {
+  margin: 0 auto;
+}
+
+div {
+  padding: .5em;
+}
+.vote_div {
+  border: 1px solid #0000FF;
+}
+.my_vote_div {
+  border: 1px solid #0000FF;
+}
+.theory_div {
+  border: 1px solid #0FF00F;
+  width : 90%;
+  float: none;
+  padding: 1.5em;
+  margin: 0.5em;
+}
+.my_theory_div {
+  border: 1px solid #F00FF0;
+  width : 90%;
+  float: none;
+  padding: 1.5em;
+  margin: 0.5em;
+}
+
+.lhs_div {
+   margin-right: 10px;
+   border-right: solid 1px;
+   padding-right:5px;
+}
+
+p.must_login {
+  font-size: smaller
+}
+span.bold {
+font-weight: bold;
+}
+span.topic_span {
+  padding: .2em;
+  background: #88ffFF;
+  border-style: dotted;
+  border-color: #88ff88;
+}
+span.my_topic_span {
+  padding: .2em;
+  background: #88ffFF;
+  border-style: dotted;
+  border-color: #880088;
+}
+
+table {
+  margin: none;
+  padding: none;
+}
+
+table.topbar {
+#  border: 1px solid #e7dc2b;
+  width: 90%;
+  float: none;
+  padding: 1.5em;
+  margin: 0.5em;
+}
+
+td {
+#  border : 1px solid #00FF00
+}
+
+.alert {
+  border: 1px solid #e7dc2b;
+  background: #fff888;
+}
+.success {
+  border: 1px solid #669966;
+  background: #88ff88;
+}
+.error {
+  border: 1px solid #ff0000;
+  background: #ffaaaa;
+}
+#verify-form {
+  border: 1px solid #777777;
+  background: #dddddd;
+  margin-top: 0em;
+}
+#navigation-bar {
+  border: 1px solid #777777;
+  background: #dddddd;
+  margin-top: 0em;
+}
+
+.none {
+  border : none;
+}
+.left {
+  float: left;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.right {
+  float: right;
+}
+
+img.logo {
+  width: 12em;
+  float: right;
+}
+
+input.icon {
+  width: 2em;
+}
+
+input.openidlogo {
+background: url(/images/openid-logo-textinput.gif) no-repeat;
+background-color: #fff; 
+background-position: 0px 1px; 
+padding-left: 18px; 
+color: #00C;
+font-weight: bold;
+}

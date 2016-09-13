@@ -1,0 +1,483 @@
+<!-- http://www.empiretribune.com/articles/2008/02/03/news/news02.txt -->
+<!-- Cache: /var/storage/newsys//httpd/www/e/m/empiretribune.com/html/articles/2008/02/03/news/news02.txt -->
+<!-- NewSys(TM), version 3.40.0, Copyright TownNews.com(C) 2002-2005, on web14.ch2.l3.sys.townnews.com -->
+<html>
+<head>
+<title>Stephenville Empire-Tribune</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="STYLESHEET" type="text/css" href="/art/styles.css">
+<link rel="STYLESHEET" type="text/css" href="/art/calendar.css">
+<script src="/scripts/scripts.js" type="text/javascript"></script>
+<meta name="googlebot" content="noarchive">
+</head>
+<body background="/art/back.jpg" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0">
+
+<table width="760" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><script language="javascript">showImage();</script></td>
+		<td><img src="http://images.townnews.com/empiretribune.com/art/head_02.jpg" width="458" height="111" alt=""></td>
+		<td bgcolor="#FFFFFF"><table width="138" border="0" cellspacing="0" cellpadding="0">
+<tr>
+	<td width="138" height="18" colspan="2" align="center" valign="middle"><img src="http://images.townnews.com/empiretribune.com/art/weather_top.gif" width="122" height="14" alt="" border="0"></td>
+</tr>
+<tr>
+	<td width="84" height="93" align="center" valign="middle"><script language='javascript' src='/shared-content/adsys/creative.js'></script>
+<script language='javascript' src='http://adsys.townnews.com/global/capped.js' /></script>
+<!-- AdSys ad not found for news:weather --></td>
+	<td width="54" height="93" align="center" valign="middle"><a href="/frameset.html?http://wwwa.accuweather.com/forecast.asp?zipcode=76401&partner=townnews" target="_blank"><img src="http://wxport.accuweather.com/wxpost/graphic.aspx?zipcode=76401&type=21&partner=townnews" border="0" alt="WXPort"></a></td>
+</tr>
+</table></td>
+	</tr>
+</table>
+<table width="760" border="0" cellspacing="0" cellpadding="0" bgcolor="#01258D">
+<tr>
+	<td width="50%" height="30" align="left" valign="middle" class="foot">&nbsp;Today is: <SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+d = new Array(
+"Sunday",
+"Monday",
+"Tuesday",
+"Wednesday",
+"Thursday",
+"Friday",
+"Saturday"
+);
+m = new Array(
+"January",
+"February",
+"March",
+"April",
+"May",
+"June",
+"July",
+"August",
+"September",
+"October",
+"November",
+"December"
+);
+
+today = new Date();
+day = today.getDate();
+year = today.getYear();
+
+if (year < 2000) 
+year = year + 1900;
+
+end = "th";
+if (day==1 || day==21 || day==31) end="st";
+if (day==2 || day==22) end="nd";
+if (day==3 || day==23) end="rd";
+day+=end;
+
+document.write("");
+document.write(d[today.getDay()]+", "+m[today.getMonth()]+" ");
+document.write(day+", " + year);
+document.write("");
+// End -->
+</script></td>
+	<td width="50%" height="30" align="right" valign="middle" class="foot">
+<table width="250" border="0" cellspacing="0" cellpadding="0">
+<tr>
+	<td width="100" align="center" valign="middle" class="foot">Search Archives:</td><form action="/shared-content/search/" method="GET" class="form">
+	<td width="145" align="right" valign="middle" class="go">
+	<input type="HIDDEN" name="search" value="1">
+    <input type="HIDDEN" name="o" value="0">
+    <input type="HIDDEN" name="l" value="15">
+    <input type="text" name="q" size="15" class="go">
+	<input type="image" name="Submit" id="Submit" src="http://images.townnews.com/empiretribune.com/art/go3.gif" alt="Go" align="middle" width="19" height="30" border="0" class="go" valign="middle">
+	</td></form>
+	<td width="5" align="center" valign="middle" class="foot">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+	<table width="760" border="0" cellspacing="0" cellpadding="0">
+<tr>
+	<td width="130" align="center" valign="top" bgcolor="#F2F0E6">
+	<table width="130" border="0" cellspacing="0" cellpadding="0" bgcolor="#F2F0E6"><tr>	<td width="130" height="19" align="left" valign="middle" class="left_nav" style="cursor:hand" onMouseOver="bgColor='#CFCDC5'" onMouseOut="bgColor='F2F0E6'">&nbsp;<a href="/news" class="left_nav">News</a></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#FFFFFF"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="19" align="left" valign="middle" class="left_nav" style="cursor:hand" onMouseOver="bgColor='#CFCDC5'" onMouseOut="bgColor='F2F0E6'">&nbsp;<a href="/sports" class="left_nav">Sports</a></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#FFFFFF"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="19" align="left" valign="middle" class="left_nav" style="cursor:hand" onMouseOver="bgColor='#CFCDC5'" onMouseOut="bgColor='F2F0E6'">&nbsp;<a href="/obituaries" class="left_nav">Obituaries</a></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#FFFFFF"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="19" align="left" valign="middle" class="left_nav" style="cursor:hand" onMouseOver="bgColor='#CFCDC5'" onMouseOut="bgColor='F2F0E6'">&nbsp;<a href="/archives" class="left_nav">Archives</a></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#FFFFFF"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="19" align="left" valign="middle" class="left_nav" style="cursor:hand" onMouseOver="bgColor='#CFCDC5'" onMouseOut="bgColor='F2F0E6'">&nbsp;<a href="/classifieds" class="left_nav">Classifieds</a></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#FFFFFF"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="19" align="left" valign="middle" class="left_nav" style="cursor:hand" onMouseOver="bgColor='#CFCDC5'" onMouseOut="bgColor='F2F0E6'">&nbsp;<a href="javascript:void(0)" onClick="window.open('https://secure.townnews.com/shared-content/perform/?domain_name=empiretribune.com&form_template=classified','classified','width=600,height=495,toolbar=1,scrollbars=1,resizable=no');" class="left_nav">Place a Classified</a></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#FFFFFF"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="19" align="left" valign="middle" class="left_nav" style="cursor:hand" onMouseOver="bgColor='#CFCDC5'" onMouseOut="bgColor='F2F0E6'">&nbsp;<a href="/special_section_index" target="_blank" class="left_nav">Special Section</a></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#FFFFFF"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="19" align="left" valign="middle" class="left_nav" style="cursor:hand" onMouseOver="bgColor='#CFCDC5'" onMouseOut="bgColor='F2F0E6'">&nbsp;<a href="/viewpoint" class="left_nav">Viewpoint</a></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#FFFFFF"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="19" align="left" valign="middle" class="left_nav" style="cursor:hand" onMouseOver="bgColor='#CFCDC5'" onMouseOut="bgColor='F2F0E6'">&nbsp;<a href="/calendar" class="left_nav">Calendar</a></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#FFFFFF"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="19" align="left" valign="middle" class="left_nav" style="cursor:hand" onMouseOver="bgColor='#CFCDC5'" onMouseOut="bgColor='F2F0E6'">&nbsp;<a href="/guestbook" class="left_nav">Guestbook</a></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#FFFFFF"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="19" align="left" valign="middle" class="left_nav" style="cursor:hand" onMouseOver="bgColor='#CFCDC5'" onMouseOut="bgColor='F2F0E6'">&nbsp;<a href="/lifestyle" class="left_nav">Lifestyle</a></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#FFFFFF"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="19" align="left" valign="middle" class="left_nav" style="cursor:hand" onMouseOver="bgColor='#CFCDC5'" onMouseOut="bgColor='F2F0E6'">&nbsp;<a href="javascript:void(0)" onClick="window.open('https://secure.townnews.com/shared-content/perform/?domain_name=empiretribune.com&form_template=subscribe','subscribe','width=600,height=495,toolbar=1,scrollbars=1,resizable=no');" class="left_nav">Subscribe</a></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#FFFFFF"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="19" align="left" valign="middle" class="left_nav" style="cursor:hand" onMouseOver="bgColor='#CFCDC5'" onMouseOut="bgColor='F2F0E6'">&nbsp;<a href="/about_us" class="left_nav">About Us</a></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#FFFFFF"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="19" align="left" valign="middle" class="left_nav" style="cursor:hand" onMouseOver="bgColor='#CFCDC5'" onMouseOut="bgColor='F2F0E6'">&nbsp;<a href="/contact_us" class="left_nav">Contact Us</a></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#FFFFFF"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="19" align="left" valign="middle" class="left_nav" style="cursor:hand" onMouseOver="bgColor='#CFCDC5'" onMouseOut="bgColor='F2F0E6'">&nbsp;<a href="/submit_an_announcement" class="left_nav">Submit an Announcement</a></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#FFFFFF"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="19" align="left" valign="middle" class="left_nav" style="cursor:hand" onMouseOver="bgColor='#CFCDC5'" onMouseOut="bgColor='F2F0E6'">&nbsp;<a href="/" class="left_nav">Home</a></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr><tr>	<td width="130" height="1" align="left" valign="middle" bgcolor="#FFFFFF"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="130" height="1" alt="" border="0"></td></tr></table><p>
+	<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+	<td width="130" height="25" align="center" valign="middle" bgcolor="#01258D" class="poll">Web Poll</td>
+</tr>
+<tr>
+	<td width="130" height="35" align="center" valign="middle" class="left_nav"></td>
+</tr>
+</table><p>
+	<!--- Begin Market Place --->
+
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+	<td width="130" height="25" align="center" valign="middle" bgcolor="#01258D" class="poll">Market Place</td>
+</tr>
+<tr>
+	<td width="130" height="35" align="center" valign="middle" class="left_nav"><table width="100%" border="1" cellpadding="1" cellspacing="1" bordercolor="#BBBDAC">
+        <tr>
+          <form class="search" action="/classifieds/index.php" method="post">
+            <td class="box"><li><a href="/classifieds/?loc=detail&main=Employment" class="left_nav">Find a Job</a></li>
+                <li><a href="/classifieds/?loc=detail&main=Transportation" class="left_nav">Find a Car</a></li>
+                <li><a href="/classifieds/?loc=detail&main=Real%20Estate" class="left_nav">Find a Home</a></li>
+                <li><a href="/classifieds" class="left_nav">Browse All Ads</a></li>
+                <p align="center"><b>Search Ads</b>
+                    <input name="KEY1" type="text" size="10" maxlength=25 class="search">
+                    <input type=HIDDEN name=loc value=search>
+                    <input type=HIDDEN name=BOOLEAN value=OR>
+                    <input type=HIDDEN name=SEARCH value=ALL>
+                    <input type="submit" name="Submit" value="Go!" class="search">
+                </p>
+                <p align="center"><a href="/classifieds#power" class="left_nav">Advanced Search</a></p></td>
+          </form>
+        </tr>
+    </table></td>
+</tr>
+</table>
+
+<!--- End Market Place --->
+<p>
+<!--- Begin Left Ads --->
+
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[570] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1110175200) && (nAdsysTime <= 1609480799)) {
+aAd = new Array('+left1', '19042-1202812288', 'jpg');
+aAd[3] = 'http://www.empiretribune.com/special_section/20';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 570;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'empiretribune.com', aAds, aCampaigns);
+
+// -->
+</script><p>
+<!-- AdSys ad not found for news:left2 --><p>
+<!-- AdSys ad not found for news:left3 --><p>
+<!-- AdSys ad not found for news:left4 --><p>
+<!-- AdSys ad not found for news:left5 --><p>
+<!-- AdSys ad not found for news:left6 --><p>
+<!-- AdSys ad not found for news:left7 --><p>
+<!-- AdSys ad not found for news:left8 --><p>
+	
+	
+<!---End Left Ads ---><p>
+	</td>
+	<td width="1" height="100" align="left" valign="top" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="1" height="100" alt="" border="0"></td>
+	<td width="498" align="center" valign="top" bgcolor="#FFFFFF">
+	
+	
+
+	
+	
+	
+	<table width="95%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+	<td width="100%" align="left" valign="top" class="text"><br><div align="center"><!-- AdSys ad not found for news:top --></div><p>
+	<div align="right" class="header">News&nbsp;&nbsp;</div><p>
+
+
+
+	<span class="headline">UFO witness claims harassment</span>
+<br><span class="text"><b><i></i></b></span> </p>
+<span class="byline">By ANGELIA JOINER Staff Writer</span><br>
+<span class="byline">Sunday, February 3, 2008 3:11 PM CST</span></p><br>
+<div align="right">
+<table width="" border="0" cellspacing="0" cellpadding="0" align="right" class="clear">
+<tr>
+	<td valign="top" align="center" class="clear">  </td>
+</tr>
+<tr>
+	<td width="" align="center" valign="top" class="byline"><i></i><br></td>
+</tr>
+<tr>
+	<td align="center" valign="top" class="byline">&nbsp;</td>
+</tr>
+</table></div>
+
+<p>Ricky Sorrells is frustrated and a little angry.<BR /><BR />Since his interview with the Associated Press, Sorrells has stayed quiet regarding the daytime UFO sightings on his property near Dublin.
+
+<p>And, there is more than one reason for his silence.<BR /><BR />Sorrells believes military officials have been harassing him by flying military aircraft over his property at low altitudes, at all hours of the day and night. Sorrells runs livestock on his place and said the cattle don&#8217;t react well to the disturbances. It&#8217;s also been hard to get any sleep.<BR /><BR />Sorrells made international news along with other witnesses on Jan. 14 after the Associated Press contacted him for his story and took video of the exact spot the UFO was seen along with Sorrells&#8217; description of the object.<BR /><BR />Not just once, but four times, he claims to have seen the massive flying object he estimates to be the length of &#8220;three or four football fields.&#8221; He said he&#8217;s not sure about the size because the first time he saw it was the best view. At that time, the craft hovered directly over him in the woods about 300 feet above his head and his view was blocked by tree branches.<BR /><BR />&#8220;I don&#8217;t know why it keeps coming back here,&#8221; Sorrells said.<BR /><BR />He&#8217;s convinced that someone representing himself as a Lt. Colonel knows what it is  &#8212; and Sorrells wants an explanation.<BR /><BR />He said the man contacted him by telephone on Jan. 15, one day after his interview with the Associated Press.<BR /><BR />&#8220;I didn&#8217;t worry about writing his name down or taking notes,&#8221; Sorrells said. &#8220;I didn&#8217;t know what was about to happen. But, I think he said he was with the Air Force.&#8221;<BR /><BR />Sorrells said the conversation started out nice enough.<BR /><BR />&#8220;He was sort of nice to me right off,&#8221; Sorrells said. &#8220;He asked to come and talk to me.&#8221;<BR /><BR />Sorrells said he told the man that he needed time to think about it and then, &#8220;He (the man) became really arrogant.&#8221;<BR /><BR />The caller told Sorrells he wasn&#8217;t taking &#8220;no&#8221; for an answer and would be out to talk to him. Sorrells again tried to politely tell the man he did not wish to have company.<BR /><BR />After that, Sorrells said the conversation became heated and he told the man not to cross his cattle guard.<BR /><BR />Sorrells said the man responded with, &#8220; Son, we have the same caliber weapons as you do but a lot more of them.&#8221;<BR /><BR />Looking back, Sorrells said he believes the man was in his area but not able to pinpoint exactly where he lived because he recently built a new home.<BR /><BR />&#8220;I actually got up and looked out my window to see if I could see someone at the cattle guard. So I said if he was who he said he was, why didn&#8217;t he stop flying over my air space with all those helicopters,&#8221; Sorrells said. &#8220;And he informed me that it was not my air space &#8212; it was his. He told me if I&#8217;d quit talking about what I saw he would stop the helicopters.&#8221;<BR /><BR />Sorrells said since that conversation, the helicopters have quit flying over his property but the F-16s haven&#8217;t slowed.<BR /><BR />Before the conversation took place with the suspected military officer Sorrells related a late night experience with a large transport helicopter and three smaller helicopters.<BR /><BR />&#8220;I get up at 2:30 a.m. to go to work and these helicopters kept flying over and I couldn&#8217;t sleep,&#8221; Sorrells said. &#8220;Because it was about time to get up and go to work, I just got up and went outside to see what I could.&#8221;<BR /><BR />Sorrells said he has a spotlight on his pickup that he uses to look for coyotes.<BR /><BR />&#8220;I went to my truck and turned on the spotlight and shined it up at them,&#8221; Sorrells said. &#8220;It was so close, I could see the pilot&#8217;s reaction. He threw up his arm to block the light. He was in one of the smaller helicopters.<BR /><BR />&#8220;Then he turned toward me and I still have the light on. I started to feel uncomfortable so I turned off the light and waved and went back inside. I was thinking I had pushed the envelope.&#8221;<BR /><BR />To top that off, Sorrells said an acquaintance, whom he would not name, and formerly a member of the military, told him, &#8220;You need to shut your mouth about what you saw.&#8221;<BR /><BR />Sorrells said he tried to pull the man aside and asked him to explain his statement.<BR /><BR />&#8220;He just kept saying the same thing and wouldn&#8217;t explain,&#8221; Sorrells said. &#8220; Now he won&#8217;t speak to me.&#8221;<BR /><BR />Sorrells said because the helicopters disappeared, he now feels the gentlemen was actually a member of the military, and was high enough in rank that he was able to stop that type of air traffic.<BR /><BR />&#8220;If it is a military craft the American people need to know,&#8221; Sorrells said. &#8220;A lot of people have seen things around here. I know what I saw and so do they.&#8221;<BR /><BR />(For more of Sorrell&#8217;s story see Monday&#8217;s edition of the E-T.)
+
+<div align="center"><p><A HREF="http://www.empiretribune.com/articles/2008/02/03/news/news02.prt" target="printable">Print this story</A> | <a href="http://www.empiretribune.com/articles/2008/02/03/news/news02.eml" target="emailafriend">Email this story</a> | <a href="javascript:parent.history.back()">Return to News</a></div>
+	
+	
+	<p><div align="center"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[570] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1184216400) && (nAdsysTime <= 1499921999)) {
+aAd = new Array('+bottom', '89609-1202812288', 'swf');
+aAd[3] = '468';
+aAd[4] = '60';
+aAd[5] = new Array();
+aAd[5][0] = '';
+aAd[6] = '%2Bbottom';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 570;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'empiretribune.com', aAds, aCampaigns);
+
+// -->
+</script></div><p>
+	<br><br></td>
+</tr>
+</table>
+	
+	
+	
+	</td>
+	<td width="1" height="100" align="left" valign="top" bgcolor="#BBBDAC"><img src="http://images.townnews.com/empiretribune.com/art/clear.gif" width="1" height="100" alt="" border="0"></td>
+	<td width="130" align="center" valign="top" bgcolor="#FFFFFF"><br>
+	<!-- AdSys ad not found for news:topads --><p><p>
+	<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[570] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1190178000) && (nAdsysTime <= 1505883599)) {
+aAd = new Array('+right1', '97399-1202812288', 'jpg');
+aAd[3] = 'http://www.stephenvillerealty.net';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 570;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'empiretribune.com', aAds, aCampaigns);
+
+// -->
+</script><p>
+<!-- AdSys ad not found for news:right2 --><p>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[570] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1170396000) && (nAdsysTime <= 1486101599)) {
+aAd = new Array('+right3', '70959-1202812288', 'jpg');
+aAd[3] = 'http://www.coldwellbankererath.com';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 570;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'empiretribune.com', aAds, aCampaigns);
+
+// -->
+</script><p>
+<!-- AdSys ad not found for news:right4 --><p>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[570] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1184216400) && (nAdsysTime <= 1499921999)) {
+aAd = new Array('+right5', '89492-1202812288', 'jpg');
+aAd[3] = 'http://www.empiretribune.com/special_section/22';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 570;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'empiretribune.com', aAds, aCampaigns);
+
+// -->
+</script><p>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[570] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1185426000) && (nAdsysTime <= 1501131599)) {
+aAd = new Array('+right6', '91019-1202812288', 'jpg');
+aAd[3] = 'http://www.empiretribune.com/special_section/24';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 570;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'empiretribune.com', aAds, aCampaigns);
+
+// -->
+</script><p>
+<!-- AdSys ad not found for news:right7 --><p>
+<!-- AdSys ad not found for news:right8 --><p>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[570] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1185426000) && (nAdsysTime <= 1501131599)) {
+aAd = new Array('+right9', '91025-1202812288', 'jpg');
+aAd[3] = 'http://www.instantimagegallery.com/iig/c/682';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 570;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1199080800) && (nAdsysTime <= 1514786399)) {
+aAd = new Array('+right9', '109273-1202812288', 'jpg');
+aAd[3] = 'http://empiretribune.com/Rave/santa/santa.html';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 570;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'empiretribune.com', aAds, aCampaigns);
+
+// -->
+</script><p>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[570] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1184734800) && (nAdsysTime <= 1500440399)) {
+aAd = new Array('+right10', '90261-1202812288', 'jpg');
+aAd[3] = 'http://www.empiretribune.com/special_section/23';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 570;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'empiretribune.com', aAds, aCampaigns);
+
+// -->
+</script><p>
+<!-- AdSys ad not found for news:right11 --><p>
+<!-- AdSys ad not found for news:right12 --><p>
+<!-- AdSys ad not found for news:right13 --><p>
+<!-- AdSys ad not found for news:right14 --><p>
+<!-- AdSys ad not found for news:right15 --><p>
+<!-- AdSys ad not found for news:right16 --><p>
+<!-- AdSys ad not found for news:right17 --><p>
+<!-- AdSys ad not found for news:right18 --><p>
+<!-- AdSys ad not found for news:right19 --><p>
+<!-- AdSys ad not found for news:right20 --><p>
+<p>
+	<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+	<td width="130" height="25" align="center" valign="middle" bgcolor="#01258D" class="stocks">Stocks</td>
+</tr>
+<tr>
+	<td width="130" height="35" align="center" valign="middle" class="left_nav"></td>
+</tr>
+<tr>
+	<td width="130" height="35" align="center" valign="middle" class="left_nav"><script type="text/javascript" language="javascript" src="http://studio-5.financialcontent.com/townnews?Output=JS&amp;Account=townnews&amp;Module=snapshot"></script>
+</td>
+</tr>
+</table>
+<p><p>	</td>
+</tr>
+</table>
+	<script type="text/javascript"><!--
+
+google_ad_client = "pub-7920263261247262";
+
+google_ad_width = 468;
+
+google_ad_height = 60;
+
+google_ad_format = "468x60_as";
+
+google_ad_type = "text_image";
+
+//2007-04-05: Empire Tribune
+
+google_ad_channel = "8529109529";
+
+google_color_border = "FFFF66";
+
+google_color_bg = "FFFFFF";
+
+google_color_link = "052A8C";
+
+google_color_text = "000000";
+
+google_color_url = "052A8C";
+
+//-->
+
+</script>
+
+<script type="text/javascript"
+
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
+</script>
+
+
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+<tr>
+	<td width="760" height="30" align="center" valign="middle" bgcolor="#01258D" class="foot">Copyright &copy; 2008 Stephenville Empire-Tribune | All Rights Reserved</td>
+</tr>
+</table>
+<map name="news">
+	<area shape="rect" coords="407,13,477,28" href="/news">
+</map>
+<map name="sports">
+	<area shape="rect" coords="407,13,477,28" href="/sports">
+</map>
+<map name="food">
+	<area shape="rect" coords="407,13,477,28" href="/food">
+</map>
+<map name="health">
+	<area alt="" coords="407,13,477,28" href="/frameset.html?http://townnews.healthology.com" target="_blank">
+</map>
+</body>
+</html>
